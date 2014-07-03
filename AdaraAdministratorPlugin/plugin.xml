@@ -1,0 +1,38 @@
+<plugin name='adara-administrator-plugin' version='0.1' grailsVersion='1.3.7 &gt; *'>
+  <author>Your name</author>
+  <title>Plugin summary/headline</title>
+  <description>\
+Brief description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/adara-administrator-plugin</documentation>
+  <resources>
+    <resource>BuildConfig</resource>
+    <resource>Config</resource>
+    <resource>DataSource</resource>
+    <resource>UrlMappings</resource>
+    <resource>ajaguaradministration.CompanyController</resource>
+    <resource>ajaguaradministration.DeviceController</resource>
+    <resource>ajaguaradministration.LocalizationController</resource>
+    <resource>ajaguaradministration.MarkerController</resource>
+    <resource>ajaguaradministration.MenuController</resource>
+    <resource>ajaguaradministration.OSController</resource>
+    <resource>ajaguaradministration.Object3DController</resource>
+    <resource>ajaguaradministration.RelationsController</resource>
+    <resource>ajaguaradministration.RoleController</resource>
+    <resource>ajaguaradministration.SectionController</resource>
+    <resource>ajaguaradministration.UserController</resource>
+    <resource>ajaguaradministration.Company</resource>
+    <resource>ajaguaradministration.Device</resource>
+    <resource>ajaguaradministration.Localization</resource>
+    <resource>ajaguaradministration.Marker</resource>
+    <resource>ajaguaradministration.Menu</resource>
+    <resource>ajaguaradministration.OS</resource>
+    <resource>ajaguaradministration.Object3D</resource>
+    <resource>ajaguaradministration.Relations</resource>
+    <resource>ajaguaradministration.Role</resource>
+    <resource>ajaguaradministration.Section</resource>
+    <resource>ajaguaradministration.User</resource>
+  </resources>
+  <dependencies />
+  <behavior />
+</plugin>

@@ -1,0 +1,18 @@
+Feb 26, 2013 3:08:19 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-7070"]
+Feb 26, 2013 3:08:19 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Tomcat
+Feb 26, 2013 3:08:19 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.25
+Feb 26, 2013 3:08:20 PM org.apache.catalina.startup.ContextConfig getDefaultWebXmlFragment
+INFO: No global web.xml found
+Feb 26, 2013 3:08:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Feb 26, 2013 3:08:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'grails'
+Feb 26, 2013 3:08:30 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-7070"]
+Feb 26, 2013 5:03:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'gsp'
+Feb 26, 2013 5:03:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: GSP servlet initialized
